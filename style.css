@@ -1,0 +1,33 @@
+#Korzen {
+    float: right;
+    position: relative; top:-450px; left:200px;
+}
+
+body {
+    background-image: url(https://i.etsystatic.com/14867222/r/il/99d83d/1590892442/il_570xN.1590892442_cqya.jpg);
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.mb-4 {
+    color: white;
+    margin: 100px;
+}
+
+.card {
+    text-align: center;
+    position: relative; top:40px;
+}
+
+h1 {
+    color: white;
+    font-size: 35px;
+    text-align: center;
+    position:relative; top:30px;
+
+}
+
+.Beedle1 {
+    position:relative; left:575px;
+}
